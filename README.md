@@ -16,7 +16,7 @@ Resultado:
 
 ![Manipulacao_string_work](images/manipulacao_texto_work.png)
 
-### Condicionais If, Elif e Else
+### Jokenpo:
 
 Código:  
 ![Jokenpo_code](images/jokenpo_code.png)
